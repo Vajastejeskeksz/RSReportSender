@@ -1,0 +1,29 @@
+2019.03.06
+>>Update
+	- Macro update (Hide T&E sheet, set summary sheet as default at opening)
+
+2019.01.07
+>>Update 
+	-Macro update (it calculates date properly at new year)
+
+2019.01.04
+>>Update
+	-Sender must be hydroexpensereporting@hydro.com 
+	-Check HTML format of the mail (does not work properly)
+	-Only the current month should appear in the email subject
+
+2018.11.30
+>>Update
+	-Sends only one email to mark.lupinacci@hydro.com; jennifer.crowe@hydro.com; Virag.Berecz@sapagroup.com
+	-Email subject changed
+	-Email body changed
+
+2018.11.07
+>>Update
+	-Take out Debbie Raleigh from email pool.
+	-For whom get "summary" excel, hide all sheets except "Regional Sales Summary"
+
+
+2018.10.19
+
+>>Set macro input field.
